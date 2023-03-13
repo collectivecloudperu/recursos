@@ -1,0 +1,55 @@
+[{
+  "_id": {
+    "$oid": "639f66d271bf737514f7dbab"
+  },
+  "nya": "Carlos Alvarado",
+  "email": "calvarado@gmail.com",
+  "celular": "909000767",
+  "celular_verificado": "1",
+  "password": "$2b$10$92oYK2aDmqjQ.4ANNjZ8qu7.ElvuefRoHKnNMugzOdDvpVAluU6tG",
+  "genero": "m",
+  "img": "ca.jpg",
+  "rol": "1",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1671388687000"
+    }
+  },
+  "updated_at": null,
+  "deleted_at": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63abdcd108abffe9b3ce56b0"
+  },
+  "nya": "Pedro Alvarado",
+  "email": "palvarado@gmail.com",
+  "celular": "999999999",
+  "celular_verificado": "1",
+  "password": "$2b$10$hgIOHgWiku./ttttJKGajuCmuBakWvmf4eF0QjtlPsLKQAEeUs3Ia",
+  "genero": "m",
+  "img": "pa.jpg",
+  "rol": "1",
+  "created_at": null,
+  "updated_at": null,
+  "deleted_at": null,
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63b3e5be612bcb8e6b2e7058"
+  },
+  "nya": "Juan Castro",
+  "email": "jcastro@mail.com",
+  "celular": "960306565",
+  "celular_verificado": "1",
+  "password": "$2b$10$XamX4qQpxpCOXIOsRjr1TusHF2SMWXAYUMZ1BHH9NIcunDJtNAlX6",
+  "password2": "11",
+  "rol": "Cocinero",
+  "sesion": "1",
+  "created_at": {
+    "$date": {
+      "$numberLong": "1672734142835"
+    }
+  },
+  "__v": 0
+}]
